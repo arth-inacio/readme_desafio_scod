@@ -138,6 +138,8 @@
       <li>Crie um <strong>repositório público no GitHub</strong> (ex: <code>scod_scraping_<seu_nome></code>).</li>
       <li>Envie o <strong>link do repositório</strong> para:  
       ✉️ <strong>arthur.inacio@scodbrasil.com.br</strong></li>
+      ✉️ <strong>diretoria@scod.com.br</strong></li>
+        
     </ol>
   </section>
 
